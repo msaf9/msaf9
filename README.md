@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Cloud Computing
 - 🤔 I’m looking for help with Artificial Intelligence
 - 💬 Ask me about Football, Technology, or Anything
-- 📫 How to reach me: [Gmail](msafarookhi@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: Jack of all, master of none
 
