@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 -->
----
 <!--Preface-->
 > <p style="text-align:justify">My name is <a href="https://www.linkedin.com/in/sahilafridfarookhi/">Sahil</a> (Fun fact about this part of my name: the name Sahil has derived from Arabic during the Mughal era, which means Guide, Riverbank, shore, etc.).</p> 
 > <p style="text-align:justify">I am a Full-stack developer at an MNC in India. I work on large & medium scale enterprise web applications using different frameworks.<p> 
 > <p style="text-align:justify">I love to read books and articles, listen to podcasts, and watch soccer (Ardent Leo Messi and FC Barcelona's fan) & Cricket.</p>
-
+---
 <!--Overview-->
 ~~~
 - 🔭 I’m currently working on Web applications
