@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ~~~
 - 🔭 I’m currently working on Web applications
 - 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on Cloud Computing projects
+- 👯 I’m looking to collaborate on Open-source Cloud Computing projects
 - 🤔 I’m looking for help with Artificial Intelligence
 - 💬 Ask me about Football, Technology, or Anything
 - 😄 Pronouns: He/ Him
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ~~~
 #### 
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi")
+ - 🚀 Email me: [Gmail](mailto:msafarookhi@gmail.com "Email")
 
 ### Languages and Tools:
 <!-- Front-end -->
