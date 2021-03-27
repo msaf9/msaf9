@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 ~~~
 - 🔭 I’m currently working on Web applications
 - 🌱 I’m currently learning AWS, UX, and DevOps fundamentals
-- 👯 I’m looking to collaborate on Open-source Cloud Computing projects
+- 👯 I’m looking to collaborate on Open-source and  Cloud Computing projects
 - 🤔 I’m looking for help with Artificial Intelligence
 - 💬 Ask me about Football, Technology, or Anything
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: Jack of all, master of none
 ~~~
 
- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi")
- - 🚀 Email me: [Gmail](mailto:msafarookhi@gmail.com "Email")
+ - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi") 
+ - 🚀 Email me: [Gmail](mailto:msafarookhi@gmail.com "Email") 💬
 
 ### Languages and Tools
 <!-- Front-end -->
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <!-- Programming languages -->
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ruby/ruby.png" />
+<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
 
 <!-- Text editor -->
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/atom/atom.png" />
