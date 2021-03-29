@@ -56,3 +56,9 @@ Here are some ideas to get you started:
 
 <!-- Text editor -->
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/atom/atom.png" />
+
+---
+
+<!-- Stats -->
+### Github stats
+<img align="left" alt="msaf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true" />
