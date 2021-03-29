@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AWS, UX, and DevOps fundamentals
 - 👯 I’m looking to collaborate on Open-source and  Cloud Computing projects
 - 🤔 I’m looking for help with Artificial Intelligence
-- 💬 Ask me about Football, Technology, or Anything
+- 💬 Ask me about Football, Books, Technology, or Anything
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: Jack of all, master of none
 ~~~
