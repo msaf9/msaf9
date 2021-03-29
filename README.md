@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 <!-- Text editor -->
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/atom/atom.png" />
 
----
+<br />
+<br />
 
 <!-- Stats -->
 ### Github stats
