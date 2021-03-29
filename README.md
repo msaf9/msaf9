@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 
 <!-- Stats -->
 ### Github stats
-<img align="left" alt="msaf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=false" />
+<img align="left" alt="msaf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=false&theme=dark" />
