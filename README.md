@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi") 
  - 🚀 Email me: [Gmail](mailto:msafarookhi@gmail.com "msafarookhi@gmail.com") 💬
- - 🕸 Website: [Portfolio](https://msaf9.github.io/PortfolioPage/ "Portfolio")
+ - 🕸 Website: [Portfolio](https://msaf9.github.io/portfolio/ "Portfolio")
 
 ### Languages and Tools
 <!-- Front-end -->
