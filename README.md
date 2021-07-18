@@ -29,7 +29,8 @@ Here are some ideas to get you started:
  - 🚀 Email me: [Gmail](mailto:msafarookhi@gmail.com "msafarookhi@gmail.com") 💬
  - 🕸 Website: [Portfolio](https://portfolio-msaf.herokuapp.com/ "Portfolio")
 
-### Languages and Tools
+### Programming Languages and Tools
+##### Frameworks, IDEs, Database, and Editors
 <!-- Front-end -->
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
