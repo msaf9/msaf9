@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi") 
  - 🚀 Email me: [Gmail](mailto:msafarookhi@gmail.com "msafarookhi@gmail.com") 💬
- - 🕸 Website: [Portfolio](https://portfolio-msaf.herokuapp.com/ "Portfolio")
+ - 🕸 Website: [Portfolio](https://msaf-portfolio.herokuapp.com/ "Portfolio")
 
 ### Programming Languages and Tools
 ##### Frameworks, IDEs, Database, and Editors
