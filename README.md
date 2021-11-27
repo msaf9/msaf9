@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 <!--Overview-->
 ~~~
-- 🔭 I’m currently working on Web applications
-- 🌱 I’m currently learning UX 🌞, AWS ⛈, and DevOps 🌤 
-- 👯 I’m looking to collaborate on Open-source and Cloud Computing projects 🌩
-- 🤔 I’m looking for help with Artificial Intelligence, Human-computer interaction (HCI), and Cloud Computing
-- 💬 Ask me about Football ⚽, Books 📕, Technology 👨‍💻, or Anything 😄
-- 😄 Pronouns: He/ Him
-- ⚡ Fun fact: Jack of all, master of none 😂
+- 🔭 I’m currently working on Web applications.
+- 🌱 I’m currently learning UX 🌞, AWS ⛈, and DevOps 🌤.
+- 👯 I’m looking to collaborate on Open-source and Cloud Computing projects 🌩.
+- 🤔 I’m looking for help with Artificial Intelligence, Human-computer interaction (HCI), and Cloud Computing.
+- 💬 Ask me about Football ⚽, Books 📕, Technology 👨‍💻, or Anything 😄.
+- 😄 Pronouns: He/ Him.
+- ⚡ Fun fact: Jack of all, master of none 😂.
 ~~~
 
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi") 
