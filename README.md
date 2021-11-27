@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msaf9&label=Profile%20views&color=0e75b6&style=flat" alt="msaf9" /> </p>
+
 <!--Preface-->
 > <p style="text-align:justify">My name is <a href="https://www.linkedin.com/in/sahilafridfarookhi/">Sahil</a> 😄 (Fun fact about this part of my name: the name Sahil has derived from Arabic during the Mughal era, which means Guide, Riverbank, shore, etc.).</p>
 > <p style="text-align:justify">I am a Full-stack developer 💻 at an MNC in India [🇮🇳]. I work on large & medium scale enterprise web applications using different frameworks.<p>
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi") 
  - 🚀 Email me: [Gmail](mailto:msafarookhi@gmail.com "msafarookhi@gmail.com") 💬
- - 🕸 Website: [Portfolio](https://portfolio-msaf.herokuapp.com/ "Portfolio")
+ - 🕸 Website: [Portfolio](https://msaf-portfolio.herokuapp.com/ "Portfolio")
 
 ### Programming Languages and Tools
 ##### Frameworks, IDEs, Database, and Editors
