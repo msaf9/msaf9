@@ -1,31 +1,31 @@
-## Hello people 👋
+## Hello people :wave:
 
-<!--
-**msaf9/msaf9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **msaf9/msaf9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
--->
+<!-- Visitor badge -->
+![visitor badge](https://komarev.com/ghpvc/?username=msaf9&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msaf9&label=Profile%20views&color=0e75b6&style=flat" alt="msaf9" /> </p>
+<!-- Introduction -->
+My name is [Sahil](https://www.linkedin.com/in/sahilafridfarookhi/) :smile:. (Fun fact about this part of my name: the name Sahil has derived from Arabic during the Mughal era, which means Guide, Riverbank, shore, etc.).
 
-<!--Preface-->
-> <p style="text-align:justify">My name is <a href="https://www.linkedin.com/in/sahilafridfarookhi/">Sahil</a> 😄 (Fun fact about this part of my name: the name Sahil has derived from Arabic during the Mughal era, which means Guide, Riverbank, shore, etc.).</p>
-> <p style="text-align:justify">I am a Senior Software Engineer 💻 at an MNC in India [🇮🇳]. I work on large & medium scale enterprise web applications using different frameworks.<p>
-> <p style="text-align:justify">I have a good sense of feeling that my lines of code help our clients put smiles on a hundred thousand or more faces every day by delivering their promise.</p>
-> <p style="text-align:justify">I love to read books 📚 and articles, listen to podcasts, and watch soccer ⚽ (Ardent Leo Messi and FC Barcelona fan) & Cricket 🏏.</p>
+I am a Senior Software Engineer :computer: at an MNC in India [🇮🇳]. I work on large & medium scale enterprise web applications using different frameworks.
+
+I have a good sense of feeling that my lines of code help our clients put smiles on a hundred thousand or more faces every day by delivering their promise.
+
+I love to read books :books: and articles, listen to podcasts, and watch soccer :soccer: (Ardent Leo Messi and FC Barcelona fan) & Cricket :cricket_game:.
 
 ---
 
-<!--Overview-->
-~~~
-- 🔭 I’m currently working on Web applications.
-- 🌱 I’m currently learning UX 🌞, GCP 🌞, and DevOps ⛈.
-- 👯 I’m looking to collaborate on Open-source and Cloud Computing projects 🌩.
-- 🤔 I’m looking for help with Artificial Intelligence, Human-computer interaction (HCI), and Cloud Computing.
-- 💬 Ask me about Football ⚽, Books 📕, Technology 👨‍💻, or Anything 😄.
-- 😄 Pronouns: He/ Him.
-- ⚡ Fun fact: Jack of all, master of none 😂.
-~~~
+<!-- More about me? -->
+- :telescope: I’m currently working on Web applications.
+- :seedling: I’m currently learning UX :sun_with_face:, GCP :sun_with_face:, and DevOps :cloud_with_lightning_and_rain:.
+- :dancers: I’m looking to collaborate on Open-source and Cloud Computing projects :cloud_with_lightning:.
+- :thinking: I’m looking for help with Artificial Intelligence, Human-computer interaction (HCI), and Cloud Computing.
+- :speech_balloon: Ask me about Football :soccer:, Books :closed_book:, Technology :man_technologist:, or Anything :smile:.
+- :smile: Pronouns: He/ Him.
+- :zap: Fun fact: Jack of all, master of none :joy:.
+
+---
 
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi") 
  - 🚀 Email me: [Gmail](mailto:msafarookhi@gmail.com "msafarookhi@gmail.com") 💬
