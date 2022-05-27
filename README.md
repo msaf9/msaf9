@@ -8,7 +8,7 @@
 <!-- Introduction -->
 My name is [Sahil](https://www.linkedin.com/in/sahilafridfarookhi/) :smile:. (Fun fact about this part of my name: the name Sahil has derived from Arabic during the Mughal era, which means Guide, Riverbank, shore, etc.).
 
-I am a Senior Software Engineer :computer: at an MNC in India [🇮🇳]. I work on large & medium scale enterprise web applications using different frameworks.
+I am a Senior Software Engineer :computer: at an MNC in India :india:. I work on large & medium scale enterprise web applications using different frameworks.
 
 I have a good sense of feeling that my lines of code help our clients put smiles on a hundred thousand or more faces every day by delivering their promise.
 
@@ -27,9 +27,13 @@ I love to read books :books: and articles, listen to podcasts, and watch soccer 
 
 ---
 
- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi") 
- - 🚀 Email me: [Gmail](mailto:msafarookhi@gmail.com "msafarookhi@gmail.com") 💬
- - 🕸 Website: [Portfolio](https://msaf-portfolio.herokuapp.com/ "Portfolio")
+:rocket: How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi") 
+ 
+:mailbox: Email me: [Gmail](mailto:msafarookhi@gmail.com "msafarookhi@gmail.com") :email:
+  
+:spider_web: Website: [Portfolio](https://msaf-portfolio.herokuapp.com/ "Portfolio")
+
+---
 
 ### Programming Languages and Tools
 ##### Frameworks, IDEs, Database, and Editors
@@ -66,4 +70,4 @@ I love to read books :books: and articles, listen to podcasts, and watch soccer 
 
 <!-- Stats -->
 ### Github stats
-<img align="left" alt="msaf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=false&theme=dark" />
+![msaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=false&theme=dark)
