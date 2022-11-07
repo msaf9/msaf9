@@ -19,7 +19,7 @@ I love to read books :books: and articles, listen to podcasts, and watch soccer 
 <!-- More about me? -->
 - :telescope: I’m currently working on Web applications.
 - :seedling: I’m currently learning UX :sun_with_face:, PCF :sun_with_face:, and DevOps :cloud_with_lightning_and_rain:.
-- :dancers: I’m looking to collaborate on Open-source and Cloud Computing projects :cloud_with_lightning:.
+- :dancers: I’m looking to collaborate on UX, Open-source and Cloud Computing projects :cloud_with_lightning:.
 - :thinking: I’m looking for help with Artificial Intelligence, Human-computer interaction (HCI), and Cloud Computing.
 - :speech_balloon: Ask me about Football :soccer:, Books :closed_book:, Technology :man_technologist:, or Anything :smile:.
 - :smile: Pronouns: He/ Him.
