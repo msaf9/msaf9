@@ -12,7 +12,7 @@ I am a Senior Software Engineer :computer: at an MNC in India :india:. I work on
 
 I have a good sense of feeling that my lines of code help our clients put smiles on a hundred thousand or more faces every day by delivering their promise.
 
-I love to read books :books: and articles, listen to podcasts, and watch soccer :soccer: (Ardent Leo Messi and FC Barcelona fan) & Cricket :cricket_game:.
+I love to read books :books: and articles, listen to podcasts :studio_microphone:, and watch soccer :soccer: (Ardent Leo Messi and FC Barcelona fan) & Cricket :cricket_game:.
 
 ---
 
