@@ -12,14 +12,14 @@ I am a Senior Software Engineer :computer: at an MNC in India :india:. I work on
 
 I have a good sense of feeling that my lines of code help our clients put smiles on a hundred thousand or more faces every day by delivering their promise.
 
-I love to read books :books: and articles, listen to podcasts, and watch soccer :soccer: (Ardent Leo Messi and FC Barcelona fan) & Cricket :cricket_game:.
+I love to read books :books: and articles, listen to podcasts :studio_microphone:, and watch soccer :soccer: (Ardent Leo Messi and FC Barcelona fan) & Cricket :cricket_game:.
 
 ---
 
 <!-- More about me? -->
 - :telescope: I’m currently working on Web applications.
-- :seedling: I’m currently learning UX :sun_with_face:, GCP :sun_with_face:, and DevOps :cloud_with_lightning_and_rain:.
-- :dancers: I’m looking to collaborate on Open-source and Cloud Computing projects :cloud_with_lightning:.
+- :seedling: I’m currently learning UX :sun_with_face:, PCF :sun_with_face:, and DevOps :cloud_with_lightning_and_rain:.
+- :dancers: I’m looking to collaborate on UX, Open-source and Cloud Computing projects :cloud_with_lightning:.
 - :thinking: I’m looking for help with Artificial Intelligence, Human-computer interaction (HCI), and Cloud Computing.
 - :speech_balloon: Ask me about Football :soccer:, Books :closed_book:, Technology :man_technologist:, or Anything :smile:.
 - :smile: Pronouns: He/ Him.
