@@ -37,13 +37,16 @@ I love to read books :books: and articles, listen to podcasts :studio_microphone
 
 ### Programming Languages and Tools
 ##### Frameworks, IDEs, Database, and Editors
-> WIP (Fixing image rendering issue)
 <!-- Front-end -->
 <!-- <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /> -->
-<!-- <img align="left" alt="Angular" width="100px" src="https://img.shields.io/badge/logo-angular-blue?logo=angular" /> -->
+<img align="left" alt="Angular" width="100px" src="https://img.shields.io/badge/logo-angular-blue?logo=angular" />
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
-<!-- <img align="left" alt="Visual Studio Code" width="150px" src="https://img.shields.io/badge/logo-visual%20studio%20code-blue?logo=visualstudiocode" /> -->
+<img align="left" alt="Visual Studio Code" width="150px" src="https://img.shields.io/badge/logo-visual%20studio%20code-blue?logo=visualstudiocode" />
+
+<br>
+
+> WIP (Fixing image rendering issue)
 
 <!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
 <!-- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
