@@ -85,6 +85,8 @@ I love to read books :books: and articles, listen to podcasts :studio_microphone
 <br />
 <br />
 
+---
+
 <!-- Stats -->
 
 ### Github stats
