@@ -3,9 +3,11 @@
 <!-- **msaf9/msaf9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Visitor badge -->
+
 ![visitor badge](https://komarev.com/ghpvc/?username=msaf9&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Introduction -->
+
 My name is [Sahil](https://www.linkedin.com/in/sahilafridfarookhi/) :smile:. (Fun fact about this part of my name: the name Sahil has derived from Arabic during the Mughal era, which means Guide, Riverbank, shore, etc.).
 
 I am a Senior Software Engineer :computer: at an MNC in India :india:. I work on large & medium scale enterprise web applications using different frameworks.
@@ -17,6 +19,7 @@ I love to read books :books: and articles, listen to podcasts :studio_microphone
 ---
 
 <!-- More about me? -->
+
 - :telescope: I’m currently working on Web applications.
 - :seedling: I’m currently learning UX :sun_with_face:, PCF :sun_with_face:, and DevOps :cloud_with_lightning_and_rain:.
 - :dancers: I’m looking to collaborate on UX, Open-source and Cloud Computing projects :cloud_with_lightning:.
@@ -27,16 +30,18 @@ I love to read books :books: and articles, listen to podcasts :studio_microphone
 
 ---
 
-:rocket: How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ "Sahil Afrid Farookhi") 
- 
-:mailbox: Email me: [Gmail](mailto:msafarookhi@gmail.com "msafarookhi@gmail.com") :email:
-  
-:spider_web: Website: [Portfolio](https://msaf9.github.io/ "Portfolio")
+:rocket: How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ 'Sahil Afrid Farookhi')
+
+:mailbox: Email me: [Gmail](mailto:msafarookhi@gmail.com 'msafarookhi@gmail.com') :email:
+
+:spider_web: Website: [Portfolio](https://msaf9.github.io/ 'Portfolio')
 
 ---
 
 ### Programming Languages and Tools
+
 ##### Frameworks, IDEs, Database, and Editors
+
 <!-- Front-end -->
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -67,7 +72,10 @@ I love to read books :books: and articles, listen to podcasts :studio_microphone
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/atom/atom.png" />
 
 <br />
+<br />
 
 <!-- Stats -->
+
 ### Github stats
+
 ![msaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=false&theme=dark)
