@@ -10,9 +10,11 @@
 
 My name is [Sahil](https://www.linkedin.com/in/sahilafridfarookhi/) :smile:. (Fun fact about this part of my name: the name Sahil has derived from Arabic during the Mughal era, which means Guide, Riverbank, shore, etc.).
 
-I am a Senior Software Engineer :computer: at an MNC in India :india:. I work on large & medium scale enterprise web applications using different frameworks.
+Currently, pursuing Masters in Computer Engineering at Iowa State University.
 
-I have a good sense of feeling that my lines of code help our clients put smiles on a hundred thousand or more faces every day by delivering their promise.
+I was a Senior Software Engineer :computer: at an MNC in India :india:. I work on large & medium scale enterprise web applications using different frameworks.
+
+I had a good sense of feeling that my lines of code helped our clients to put smiles on a hundred thousand or more faces every day by delivering their promise.
 
 I love to read books :books: and articles, listen to podcasts :studio_microphone:, and watch soccer :soccer: (Ardent Leo Messi :goat: and FC Barcelona fan) & Cricket :cricket_game:.
 
