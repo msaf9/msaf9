@@ -4,7 +4,7 @@
 
 <!-- Visitor badge -->
 
-![visitor badge](https://komarev.com/ghpvc/?username=msaf9&label=Profile%20views&color=0e75b6&style=flat)
+<!--![visitor badge](https://komarev.com/ghpvc/?username=msaf9&label=Profile%20views&color=0e75b6&style=flat) -->
 
 <!-- Introduction -->
 
