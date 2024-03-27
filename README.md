@@ -30,8 +30,6 @@ I'm passionate about designing and developing user-centric products that leave a
 
 ---
 
-:rocket: How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ 'Sahil Afrid Farookhi')
-
 :mailbox: Email me: [Gmail](mailto:msafarookhi@gmail.com 'msafarookhi@gmail.com') :email:
 
 :spider_web: Website: [Portfolio](https://msaf9.github.io/ 'Portfolio')
