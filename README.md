@@ -2,21 +2,15 @@
 
 <!-- **msaf9/msaf9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- Visitor badge -->
-
-<!--![visitor badge](https://komarev.com/ghpvc/?username=msaf9&label=Profile%20views&color=0e75b6&style=flat) -->
-
 <!-- Introduction -->
 
-My name is [Sahil](https://www.linkedin.com/in/sahilafridfarookhi/) :smile:. (Fun fact about this part of my name: the name Sahil has derived from Arabic during the Mughal era, which means Guide, Riverbank, shore, etc.).
+I'm Sahil, a passionate computer engineering master's student with a knack for crafting cutting-edge software solutions. With over four years of experience as a senior software engineer at Wipro, I've honed my skills in designing and developing full-stack web applications, mentoring budding talents, and ensuring robust code documentation.
 
-Currently, pursuing Masters in Computer Engineering at Iowa State University.
+My academic journey began with a Bachelor of Technology degree in Computer Science and Engineering, specializing in cloud computing. Now, I'm delving deeper into the realms of Software Systems, Software Engineering, and Distributed Systems, fueled by my enthusiasm for creating impactful technological innovations.
 
-I was a Senior Software Engineer :computer: at an MNC in India :india:. I work on large & medium scale enterprise web applications using different frameworks.
+One of my proudest moments was advocating for good software engineering practices and contributing to a white paper on applying chaos engineering to enhance the resilience of supply chain and logistics software, aimed at preventing disruptions.
 
-I had a good sense of feeling that my lines of code helped our clients to put smiles on a hundred thousand or more faces every day by delivering their promise.
-
-I love to read books :books: and articles, listen to podcasts :studio_microphone:, and watch soccer :soccer: (Ardent Leo Messi :goat: and FC Barcelona fan) & Cricket :cricket_game:.
+I'm passionate about designing and developing user-centric products that leave a lasting impression, leveraging my expertise in software engineering and user-experience principles.
 
 ---
 
