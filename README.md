@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 
-![Linkedin Badge](https://img.shields.io/badge/-msafarookhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msafarookhi/)
+[![Linkedin Badge](https://img.shields.io/badge/-msafarookhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msafarookhi/)](https://www.linkedin.com/in/msafarookhi/)
 
 I'm Sahil, a passionate Computer Engineering Master's student with a knack for crafting cutting-edge software solutions. With over four years of experience as a Senior Software Engineer :computer: at Wipro, I've honed my skills in designing and developing full-stack web applications, mentoring budding talents, and ensuring robust code documentation.
 
