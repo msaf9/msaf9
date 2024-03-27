@@ -4,13 +4,15 @@
 
 <!-- Introduction -->
 
-I'm Sahil, a passionate computer engineering master's student with a knack for crafting cutting-edge software solutions. With over four years of experience as a senior software engineer at Wipro, I've honed my skills in designing and developing full-stack web applications, mentoring budding talents, and ensuring robust code documentation.
+![Linkedin Badge](https://img.shields.io/badge/-msafarookhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msafarookhi/)
+
+I'm Sahil, a passionate Computer Engineering Master's student with a knack for crafting cutting-edge software solutions. With over four years of experience as a Senior Software Engineer :computer: at Wipro, I've honed my skills in designing and developing full-stack web applications, mentoring budding talents, and ensuring robust code documentation.
 
 My academic journey began with a Bachelor of Technology degree in Computer Science and Engineering, specializing in cloud computing. Now, I'm delving deeper into the realms of Software Systems, Software Engineering, and Distributed Systems, fueled by my enthusiasm for creating impactful technological innovations.
 
-One of my proudest moments was advocating for good software engineering practices and contributing to a white paper on applying chaos engineering to enhance the resilience of supply chain and logistics software, aimed at preventing disruptions. I had a profound sense of fulfillment knowing that my lines of code helped our clients put smiles on a hundred thousand or more faces every day by delivering their promises.
+One of my proudest moments was advocating for good software engineering practices and contributing to a white paper on applying chaos engineering to enhance the resilience of supply chain and logistics software, aimed at preventing disruptions. I had a profound sense of fulfillment knowing that my lines of code helped our clients put smiles :smile: on a hundred thousand or more faces every day by delivering their promises.
 
-Beyond coding, I find joy in exploring the world of literature through books and articles, tuning into podcasts, and cheering for my favorite soccer team, FC Barcelona, once led by the legendary Leo Messi. Cricket also holds a special place in my heart.
+Beyond coding, I find joy in exploring the world of literature through books and articles, tuning into podcasts, and cheering for my favorite soccer team, FC Barcelona, once led by the legendary Leo Messi :goat:. Cricket :cricket_game: also holds a special place in my heart.
 
 I'm passionate about designing and developing user-centric products that leave a lasting impression, leveraging my expertise in software engineering and user-experience principles.
 
