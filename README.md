@@ -1,96 +1,96 @@
-## Hello people <img src="resources/waveHand.gif" width="30px" height="30px" />
+# Hello people <img src="resources/waveHand.gif" width="30px" height="30px" />
 
 <!-- **msaf9/msaf9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- Visitor badge -->
+[![Linkedin Badge](https://img.shields.io/badge/-msafarookhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msafarookhi/)](https://www.linkedin.com/in/msafarookhi/) [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msafarookhi@gmail.com)](mailto:msafarookhi@gmail.com)
 
-<!--![visitor badge](https://komarev.com/ghpvc/?username=msaf9&label=Profile%20views&color=0e75b6&style=flat) -->
+## About Me
 
-<!-- Introduction -->
+I'm Sahil, a passionate Computer Engineering Master's student with a knack for crafting cutting-edge software solutions. With over four years of experience as a Senior Software Engineer :computer: at Wipro, I've honed my skills in designing and developing full-stack web applications, mentoring budding talents, and ensuring robust code documentation.
 
-My name is [Sahil](https://www.linkedin.com/in/sahilafridfarookhi/) :smile:. (Fun fact about this part of my name: the name Sahil has derived from Arabic during the Mughal era, which means Guide, Riverbank, shore, etc.).
+My academic journey began with a Bachelor of Technology degree in Computer Science and Engineering, specializing in cloud computing. Now, I'm delving deeper into the realms of Software Systems, Software Engineering, and Distributed Systems, fueled by my enthusiasm for creating impactful technological innovations.
 
-Currently, pursuing Masters in Computer Engineering at Iowa State University.
+One of my proudest moments was advocating for good software engineering practices and contributing to a white paper on applying chaos engineering to enhance the resilience of supply chain and logistics software, aimed at preventing disruptions. I had a profound sense of fulfillment knowing that my lines of code helped our clients put smiles :smile: on a hundred thousand or more faces every day by delivering their promises.
 
-I was a Senior Software Engineer :computer: at an MNC in India :india:. I work on large & medium scale enterprise web applications using different frameworks.
+Beyond coding, I find joy in exploring the world of literature through books :books: and articles, tuning into podcasts, and cheering for my favorite soccer team, FC Barcelona :large_blue_circle::red_circle:, once led by the legendary Leo Messi :goat:. Cricket :cricket_game: also holds a special place in my heart.
 
-I had a good sense of feeling that my lines of code helped our clients to put smiles on a hundred thousand or more faces every day by delivering their promise.
+I'm passionate about designing and developing user-centric products that leave a lasting impression, leveraging my expertise in software engineering and user-experience principles.
 
-I love to read books :books: and articles, listen to podcasts :studio_microphone:, and watch soccer :soccer: (Ardent Leo Messi :goat: and FC Barcelona fan) & Cricket :cricket_game:.
+## Skills
 
----
+### IDEs
 
-<!-- More about me? -->
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- :telescope: I’m currently working on Web applications.
-- :seedling: I’m currently learning UX :sun_with_face:, PCF :sun_with_face:, and DevOps :cloud_with_lightning_and_rain:.
-- :dancers: I’m looking to collaborate on UX, Open-source and Cloud Computing projects :cloud_with_lightning:.
-- :thinking: I’m looking for help with Human-computer interaction (HCI), Software Engineering, Artificial Intelligence, and Cloud Computing.
-- :speech_balloon: Ask me about Football :soccer:, Books :closed_book:, Technology :man_technologist:, or Anything :smile:.
-- :smile: Pronouns: He/ Him.
-- :zap: Fun fact: Jack of all, master of none :joy:.
+### Editors
 
----
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD) ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) 
 
-:rocket: How to reach me: [LinkedIn](https://www.linkedin.com/in/sahilafridfarookhi/ 'Sahil Afrid Farookhi')
+### Distribution
 
-:mailbox: Email me: [Gmail](mailto:msafarookhi@gmail.com 'msafarookhi@gmail.com') :email:
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-:spider_web: Website: [Portfolio](https://msaf9.github.io/ 'Portfolio')
+### Server
 
----
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Programming Languages and Tools
+### Frameworks
 
-##### Frameworks, IDEs, Database, and Editors
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-<!-- Front-end -->
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+### Programming languages
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+### Markup languages
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+### Version control
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+### Cloud computing services
 
-<!-- Back-end -->
-<img align="left" alt="SpringBoot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+### CI
 
-<!-- Database -->
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+### Package manager
 
-<!-- Source Code Management - Version control -->
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### Libraries
 
-<!-- Programming languages -->
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/ruby/ruby.png" />
+### Database
 
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- Text editor -->
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/atom/atom.png" />
+### Project management
 
-<br />
-<br />
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
----
+### Operating systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <!-- Stats -->
 
-### Github stats
+## GitHub stats
 
-![msaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=false&theme=dark)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&theme=github_dark&hide_border=true" alt="@msaf9's profile details"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark"  width="49.5%" alt="@msaf9's GitHub stats"/>
+<img src="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true"  width="49.5%" alt="@msaf9's GitHub streak stats"/>
+</p>
+
+<p align="center">
+<img src="resources/dog-cute.gif" />
+</p>
