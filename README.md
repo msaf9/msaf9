@@ -72,6 +72,6 @@ I'm passionate about designing and developing user-centric products that leave a
 
 <!-- Stats -->
 
-## Github stats
+## GitHub stats
 
-![msaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark)
+![msaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark) [![GitHub Streak](https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true)](https://git.io/streak-stats)
