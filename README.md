@@ -90,3 +90,7 @@ I'm passionate about designing and developing user-centric products that leave a
 <img src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark"  width="49.5%" alt="@msaf9's GitHub stats"/>
 <img src="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true"  width="49.5%" alt="@msaf9's GitHub streak stats"/>
 </p>
+
+<p align="center">
+<img src="resources/dog-cute.gif" />
+</p>
