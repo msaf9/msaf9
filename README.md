@@ -18,7 +18,15 @@ I'm passionate about designing and developing user-centric products that leave a
 
 ## Skills
 
-### Programming languages
+<p align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="resources/interests-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="resources/interests-light.gif">
+    <img alt="@msaf9's Interests" src="resources/interests-dark.gif">
+  </picture>
+</p>
+
+### Libraries
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
@@ -79,17 +87,41 @@ I'm passionate about designing and developing user-centric products that leave a
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+### Other
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 <!-- Stats -->
 
 ## GitHub stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&theme=github_dark&hide_border=true" alt="@msaf9's profile details"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark"  width="49.5%" alt="@msaf9's GitHub stats"/>
 <img src="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true"  width="49.5%" alt="@msaf9's GitHub streak stats"/>
+</p> -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&hide_border=true">
+    <img alt="@msaf9's profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&theme=github_dark&hide_border=true">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source width="49.5%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark">
+    <source width="49.5%" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_light">
+    <img alt="@msaf9's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark">
+  </picture>
+  <picture>
+    <source width="49.5%" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true">
+    <source width="49.5%" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=msaf9&theme=github_light_blue&hide_border=true">
+    <img alt="@msaf9's GitHub streak stats" src="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true">
+  </picture>
 </p>
 
 <p align="center">
