@@ -90,15 +90,37 @@ I'm passionate about designing and developing user-centric products that leave a
 
 ## GitHub stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&theme=github_dark&hide_border=true" alt="@msaf9's profile details"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark"  width="49.5%" alt="@msaf9's GitHub stats"/>
 <img src="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true"  width="49.5%" alt="@msaf9's GitHub streak stats"/>
+</p> -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&hide_border=true">
+    <img alt="@msaf9's profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&theme=github_dark&hide_border=true">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source width="49.5%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark">
+    <source width="49.5%" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_light">
+    <img alt="@msaf9's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark">
+  </picture>
+  <picture>
+    <source width="49.5%" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true">
+    <source width="49.5%" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=msaf9&theme=github_light_blue&hide_border=true">
+    <img alt="@msaf9's GitHub streak stats" src="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true">
+  </picture>
 </p>
 
 <p align="center">
 <img src="resources/dog-cute.gif" />
 </p>
+
