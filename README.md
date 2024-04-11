@@ -19,7 +19,11 @@ I'm passionate about designing and developing user-centric products that leave a
 ## Skills
 
 <p align="center">
-<img src="resources/interests.gif" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="resources/interests-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="resources/interests-light.gif">
+    <img alt="@msaf9's Interests" src="resources/interests-dark.gif">
+  </picture>
 </p>
 
 ### Programming languages
@@ -123,4 +127,3 @@ I'm passionate about designing and developing user-centric products that leave a
 <p align="center">
 <img src="resources/dog-cute.gif" />
 </p>
-
