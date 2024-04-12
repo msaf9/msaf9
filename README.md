@@ -1,4 +1,4 @@
-# Hello people <img src="resources/waveHand.gif" width="30px" height="30px" />
+# Hello people <img src="resources/wave-hand.gif" width="30px" height="30px" />
 
 <!-- **msaf9/msaf9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
