@@ -40,7 +40,7 @@ I'm passionate about designing and developing user-centric products that leave a
   </picture>
 </p>
 
-### Libraries
+### Programming languages
 
 <!-- Badges for programming languages -->
 
@@ -57,6 +57,12 @@ I'm passionate about designing and developing user-centric products that leave a
 <!-- Badges for additional libraries -->
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Generative artificial intelligence (GenAI)
+
+<!-- Badges for generative artificial intelligence -->
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### Markup languages
 
