@@ -32,6 +32,11 @@ I'm passionate about designing and developing user-centric products that leave a
 
 <!-- Animated GIF displaying interests -->
 
+<!-- This <picture> element dynamically serves different GIFs based on the user's preferred color scheme. 
+- If the user's system preference is set to "dark mode," the "resources/interests-dark.gif" will be displayed.
+- If the preference is "light mode," the "resources/interests-light.gif" will be displayed.
+- The <img> element acts as a fallback, displaying the "dark" version by default if no preference is detected. -->
+
 <p align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="resources/interests-dark.gif">
