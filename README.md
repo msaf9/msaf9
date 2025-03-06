@@ -169,8 +169,8 @@ I'm passionate about designing and developing user-centric products that leave a
     <img alt="@msaf9's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark">
   </picture>
   <picture>
-    <source width="49.5%" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true">
-    <source width="49.5%" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=msaf9&theme=github_light_blue&hide_border=true">
+    <source width="49.5%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=msaf9&theme=github_dark_blue&hide_border=true">
+    <source width="49.5%" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=msaf9&theme=github_light_blue&hide_border=true">
     <img alt="@msaf9's GitHub streak stats" src="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true">
   </picture>
 </p>
