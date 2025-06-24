@@ -4,7 +4,7 @@
 
 <!-- LinkedIn and Gmail badges -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-msafarookhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msafarookhi/)](https://www.linkedin.com/in/msafarookhi/) [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msafarookhi@gmail.com)](mailto:msafarookhi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-msafarookhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msafarookhi/)](https://www.linkedin.com/in/sahilafridfarookhi/) [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msafarookhi@gmail.com)](mailto:msafarookhi@gmail.com)
 
 ## About Me
 
