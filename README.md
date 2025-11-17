@@ -175,7 +175,8 @@ I'm passionate about designing and developing user-centric products that leave a
   </picture>
 </p>
 
-<p align="center">
-<img src="resources/dog-cute.gif" />
-<img style="width:50%; height:50%;" src="resources/gsd.gif" />
+<p align="center" style="white-space:nowrap;">
+  <img src="resources/dog-cute.gif" />
+  <img src="resources/gsd.gif" style="width:45%; height:50%;" />
 </p>
+
