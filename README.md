@@ -136,17 +136,6 @@ I'm passionate about designing and developing user-centric products that leave a
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### Operating systems
-
-<!-- Badges for operating systems -->
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-### Other
-
-<!-- Badges for other tools -->
-
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <!-- Stats -->
 
@@ -159,19 +148,6 @@ I'm passionate about designing and developing user-centric products that leave a
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&theme=github_dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&hide_border=true">
     <img alt="@msaf9's profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaf9&theme=github_dark&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source width="49.5%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark">
-    <source width="49.5%" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_light">
-    <img alt="@msaf9's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=msaf9&show_icons=true&hide_border=true&theme=github_dark">
-  </picture>
-  <picture>
-    <source width="49.5%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=msaf9&theme=github_dark_blue&hide_border=true">
-    <source width="49.5%" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=msaf9&theme=github_light_blue&hide_border=true">
-    <img alt="@msaf9's GitHub streak stats" src="https://streak-stats.demolab.com/?user=msaf9&theme=github_dark_blue&hide_border=true">
   </picture>
 </p>
 
